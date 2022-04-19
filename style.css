@@ -1,3 +1,99 @@
-.ASIF{
-  background-color: rgb(81, 3, 255);
+/* Declaring custom properties */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0em;
+}
+
+#compra{
+  background-color: #303030;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  text-align: right;
+  padding-right: 6em;
+}
+
+#logo{
+  background-color: #454545;
+
+}
+
+#logo-description{
+  padding-top: 0.5em;
+  padding-bottom: 1.5em;
+}
+
+#logo-description img{
+  padding-left: 6em;
+}
+
+menu {
+  padding-left: 0;
+  z-index: -5;
+}
+
+#menu{
+  position: relative;
+  text-align: center;
+  margin-right: 6em;
+  margin-left: 6em;
+  top: -2.5em;
+  background-color: white;
+  z-index: 5;
+}
+
+#menu ul{
+  list-style-type: none;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#menu li {
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+#menu p{
+margin-right: 2em;
+margin-left: 2em;
+margin-bottom: 0;
+}
+
+#claro{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#backimg{
+  margin-top: -5.35em;
+  background-image: url(FOTOS/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 3em;
+}
+
+#claro-centrado {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-top: 2em;
+  margin-right: 35em;
+  margin-left: 35em;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#claro-centrado h1 {
+  margin-top: 0;
+  margin-bottom: 4em;
+}
+
+#claro-centrado button {
+  height: 4em;
+  width: 8em;
+  background-color: #f8c420
 }
