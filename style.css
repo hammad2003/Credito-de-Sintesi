@@ -22,7 +22,7 @@ body {
 
 #logo-description{
   padding-top: 0.5em;
-  padding-bottom: 1.5em;
+  padding-bottom: 2em;
 }
 
 #logo-description img{
@@ -89,7 +89,12 @@ margin-bottom: 0;
 
 #claro-centrado h1 {
   margin-top: 0;
-  margin-bottom: 4em;
+  margin-bottom: 1em;
+}
+
+#claro-centrado p {
+  margin-top: 0;
+  margin-bottom: 5em;
 }
 
 #claro-centrado button {
