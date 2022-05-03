@@ -116,6 +116,12 @@ margin-bottom: 0;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+/* /proceso */
+
 .proces1 {
-  text-align: center;
+  text-align: left;
+}
+
+.center {
+text-align: center;
 }
