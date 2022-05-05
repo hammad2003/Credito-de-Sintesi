@@ -122,6 +122,15 @@ margin-bottom: 0;
   text-align: left;
 }
 
+.proces2{
+  text-align: center;
+}
 .center {
 text-align: center;
+background-color: yellow;
+}
+
+.fotomida img{
+  height: 12em;
+  width: 12em;
 }
