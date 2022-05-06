@@ -132,8 +132,9 @@ background-color: yellow;
 
 .fotomida img{
   height: 12em;
-  width: 12em;
+  
 padding-left: 50px;
+width: auto;
 }
 .box-radius{
 border-color: gray;
@@ -154,7 +155,7 @@ border-style: inset;
   border-style: inset;
   width: 30%;
   height: auto;
-  margin-left: 27em;
+  margin-left: 50em;
 }
 .foto-robot img{
   height: auto;
