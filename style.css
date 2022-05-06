@@ -136,6 +136,43 @@ background-color: yellow;
 padding-left: 50px;
 }
 .box-radius{
-border-radius: 15px 50px;
-background-color: gray;
+border-color: gray;
+border-width: 9px;
+border-style: inset;
+}
+
+
+/* /PAK ROBOT */
+.letra-titulo{
+  text-align: center;
+}
+
+.boxmodel-pakrobot{
+  padding-left: 5em;
+  border-color: gray;
+  border-width: 9px;
+  border-style: inset;
+  width: 30%;
+  height: auto;
+  margin-left: 27em;
+}
+.foto-robot img{
+  height: auto;
+  width: 100%;
+  padding-right: 5em;
+}
+.letra-introduccion1{
+text-align: center;
+}
+.letra-introduccion2{
+text-align: center;
+}
+.letra-introduccion3{
+  text-align: center;
+}
+.letra-introduccion4{
+  text-align: center;
+}
+.letra-introduccion5{
+  text-align: center;
 }
