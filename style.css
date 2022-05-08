@@ -21,8 +21,8 @@ body {
 }
 
 #logo-description{
-  padding-top: 0.5em;
-  padding-bottom: 2em;
+  padding-top: 0.50em;
+  padding-bottom: 4em;
 }
 
 #logo-description img{
@@ -31,7 +31,7 @@ body {
 
 menu {
   padding-left: 0;
-  z-index: -5;
+  margin: 0;
 }
 
 #menu{
@@ -39,7 +39,7 @@ menu {
   text-align: center;
   margin-right: 6em;
   margin-left: 6em;
-  top: -2.5em;
+  top: -3.6em;
   background-color: white;
   z-index: 5;
 }
@@ -70,7 +70,8 @@ margin-bottom: 0;
 }
 
 #backimg{
-  margin-top: -5.35em;
+  position: relative;
+  margin-top: -5.55em;
   background-image: url(FOTOS/2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -101,6 +102,9 @@ margin-bottom: 0;
 #claro-centrado p {
   margin-top: 0;
   margin-bottom: 5em;
+  padding-right: 1em;
+  padding-left: 1em;
+  text-align: justify;
 }
 
 #claro-centrado button {
@@ -132,7 +136,7 @@ background-color: yellow;
 
 .fotomida img{
   height: 12em;
-  
+
 padding-left: 50px;
 width: auto;
 }
