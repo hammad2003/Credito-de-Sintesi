@@ -7,26 +7,21 @@ body {
   margin: 0em;
 }
 
-#compra{
-  background-color: #303030;
-  padding-top: 0.25em;
-  padding-bottom: 0.25em;
-  text-align: right;
-  padding-right: 6em;
-}
-
 #logo{
   background-color: #454545;
-
 }
 
 #logo-description{
   padding-top: 0.50em;
-  padding-bottom: 4em;
+  padding-bottom: 2em;
 }
 
 #logo-description img{
+  position: relative;
   padding-left: 6em;
+  height: 200px;
+  width: auto;
+  z-index: 10;
 }
 
 menu {
@@ -39,7 +34,7 @@ menu {
   text-align: center;
   margin-right: 6em;
   margin-left: 6em;
-  top: -3.6em;
+  top: -1.70em;
   background-color: white;
   z-index: 5;
 }
@@ -71,12 +66,18 @@ margin-bottom: 0;
 
 #backimg{
   position: relative;
-  margin-top: -5.55em;
-  background-image: url(FOTOS/2.jpg);
+  margin-top: -20em;
+  /* margin-top: -3.50em; */
+  background-image: url(FOTOS/5.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 3em;
+  padding-top: 20em;
+  padding-bottom: 10em;
+  /* padding-top: 4em;
+  padding-bottom: 6em; */
+  padding-right: 3em;
+  padding-left: 3em;
 }
 
 #claro-centrado {
@@ -101,7 +102,7 @@ margin-bottom: 0;
 
 #claro-centrado p {
   margin-top: 0;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
   padding-right: 1em;
   padding-left: 1em;
   text-align: justify;
