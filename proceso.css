@@ -1,3 +1,4 @@
+
 /* Declaring custom properties */
 * {
   box-sizing: border-box;
@@ -242,4 +243,22 @@ width: auto;
 border-color: gray;
 border-width: 9px;
 border-style: inset;
+}
+
+
+#dosfotos img{
+  padding-top: 1em;
+  padding-bottom: 1em;
+  display: grid;
+  grid-template-columns: 0.5fr 5fr 0.5fr;
+  text-align: center;
+  height: 12em;
+
+padding-left: 50px;
+width: auto;
+}
+#dosfotos {
+  text-align: center;
+  * {
+  box-sizing: border-box;
 }
