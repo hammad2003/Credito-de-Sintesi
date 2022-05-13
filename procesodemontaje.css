@@ -1,14 +1,22 @@
+/* Declaring custom properties */
+* {
+  box-sizing: border-box;
+}
+
+/* /inicio */
+
+body {
+  margin: 0em;
+}
+
 .proces1 {
-  text-align: left;
+  text-align: justify;
 }
 
 .proces2{
-  text-align: center;
+  text-align: left;
 }
-.center {
-text-align: center;
-background-color: yellow;
-}
+
 
 .fotomida img{
   height: 12em;
@@ -20,4 +28,69 @@ width: auto;
 border-color: gray;
 border-width: 9px;
 border-style: inset;
+}
+#fondo3{
+  position: relative;
+  margin: 0;
+  background-image: url(FOTOS/FONDO/3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10em;
+  padding-right: 0em;
+  padding-left: 0em;
+  /* margin-top: -20em;
+  margin-top: -3.50em;
+  padding-top: 20em;
+  padding-top: 4em;
+  padding-bottom: 6em; */
+}
+
+.letra-introduccion5{
+  text-align: center;
+  background-color: white;
+
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion5 img{
+  text-align: center;
+  background-color: white;
+
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+  height: 12em;
+
+padding-left: 50px;
+width: auto;
+}
+
+#dosfotos {
+  background-color: white;
+
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: white;
+}
+#tresfotos {
+  margin: 0 10em;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+#tresfotos img {
+  height: 25em;
+  width: auto;
 }
