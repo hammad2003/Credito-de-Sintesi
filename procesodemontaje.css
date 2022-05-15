@@ -14,7 +14,7 @@ body {
   padding-left: 0em;
 }
 
-.letra-introduccion6{
+.letra-introduccion{
   text-align: center;
   background-color: white;
   margin-top: 2em;
@@ -25,33 +25,33 @@ body {
   color: black;
 }
 
+/* .letra-introduccion h2{
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+} */
+
 /* .letra-introduccion6 img{
   text-align: center;
   background-color: white;
-
   margin-top: 2em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
   color: black;
-  height: 12em;
-
-padding-left: 50px;
-width: auto;
 } */
 
 #dosfotos {
   background-color: white;
   margin-top: 2em;
   margin-bottom: 3em;
-  margin-right: 6em;
-  margin-left: 6em;
-  padding: 1em;
+  margin-right: 3em;
+  margin-left: 3em;
+  padding-bottom: 1em;
   color: white;
 }
 #tresfotos {
-  margin: 0 10em;
+  margin: 0 1em;
   overflow-x: auto;
   white-space: nowrap;
 }
@@ -61,8 +61,7 @@ width: auto;
   width: auto;
 }
 
-
-.letra-introduccion7{
+/* .letra-introduccion7{
   text-align: center;
   background-color: white;
   margin-top: 2em;
@@ -85,7 +84,8 @@ width: auto;
 }
 
 .letra-introduccion9{
-  text-align: center;
+  position: relative;
+  text-align: left;
   background-color: white;
   margin-top: 2em;
   margin-bottom: 3em;
@@ -129,7 +129,7 @@ width: auto;
 }
 
 .letra-introduccion13{
-  text-align: center;
+  text-align: justify;
   background-color: white;
   margin-top: 2em;
   margin-bottom: 3em;
@@ -140,7 +140,7 @@ width: auto;
 }
 
 .letra-introduccion14{
-  text-align: center;
+  text-align: justify;
   background-color: white;
   margin-top: 2em;
   margin-bottom: 3em;
@@ -151,7 +151,7 @@ width: auto;
 }
 
 .letra-introduccion15{
-  text-align: center;
+  text-align: justify;
   background-color: white;
   margin-top: 2em;
   margin-bottom: 3em;
@@ -159,26 +159,10 @@ width: auto;
   margin-left: 6em;
   padding: 1em;
   color: black;
-}
+} */
 
-.letra-introduccion16{
+.card img {
   text-align: center;
-  background-color: white;
-  margin-top: 2em;
-  margin-bottom: 3em;
-  margin-right: 6em;
-  margin-left: 6em;
-  padding: 1em;
-  color: black;
-}
-
-.letra-introduccion17{
-  text-align: center;
-  background-color: white;
-  margin-top: 2em;
-  margin-bottom: 3em;
-  margin-right: 6em;
-  margin-left: 6em;
-  padding: 1em;
-  color: black;
+  height: 17.5em;
+  width: 17.5em;
 }
