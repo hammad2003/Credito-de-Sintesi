@@ -1,34 +1,7 @@
-/* Declaring custom properties */
-* {
-  box-sizing: border-box;
-}
-
-/* /inicio */
-
 body {
   margin: 0em;
 }
 
-.proces1 {
-  text-align: justify;
-}
-
-.proces2{
-  text-align: left;
-}
-
-
-.fotomida img{
-  height: 12em;
-
-padding-left: 50px;
-width: auto;
-}
-.box-radius{
-border-color: gray;
-border-width: 9px;
-border-style: inset;
-}
 #fondo3{
   position: relative;
   margin: 0;
@@ -39,17 +12,11 @@ border-style: inset;
   padding-bottom: 10em;
   padding-right: 0em;
   padding-left: 0em;
-  /* margin-top: -20em;
-  margin-top: -3.50em;
-  padding-top: 20em;
-  padding-top: 4em;
-  padding-bottom: 6em; */
 }
 
-.letra-introduccion5{
+.letra-introduccion6{
   text-align: center;
   background-color: white;
-
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
@@ -58,7 +25,7 @@ border-style: inset;
   color: black;
 }
 
-.letra-introduccion5 img{
+/* .letra-introduccion6 img{
   text-align: center;
   background-color: white;
 
@@ -72,11 +39,10 @@ border-style: inset;
 
 padding-left: 50px;
 width: auto;
-}
+} */
 
 #dosfotos {
   background-color: white;
-
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
@@ -93,4 +59,126 @@ width: auto;
 #tresfotos img {
   height: 25em;
   width: auto;
+}
+
+
+.letra-introduccion7{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion8{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion9{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion10{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion11{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion12{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion13{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion14{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion15{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion16{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
+}
+
+.letra-introduccion17{
+  text-align: center;
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: black;
 }
