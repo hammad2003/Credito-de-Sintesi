@@ -14,41 +14,57 @@ body {
   padding-left: 0em;
 }
 
-.letra-introduccion{
-  text-align: center;
+.blanco{
   background-color: white;
-  margin-top: 2em;
-  margin-bottom: 3em;
+  margin-top: 4em;
+  margin-bottom: 0em;
   margin-right: 6em;
   margin-left: 6em;
-  padding: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   color: black;
 }
 
-/* .letra-introduccion h2{
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-} */
-
-/* .letra-introduccion6 img{
+.letra-introduccion6 h1 {
   text-align: center;
-  background-color: white;
+}
+
+.letra-introduccion7 h2{
+  text-align: center;
+}
+
+.letra-introduccion7 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion6{
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
-  margin-bottom: 1em;
+  margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
-} */
+  color: white;
+}
 
 #dosfotos {
-  background-color: white;
+  text-align: center;
+  padding: 2em;
   margin-top: 2em;
   margin-bottom: 3em;
-  margin-right: 3em;
-  margin-left: 3em;
-  padding-bottom: 1em;
-  color: white;
+  margin-right: 6em;
+  margin-left: 6em;
+
+  border-color: gray;
+  border-width: 9px;
+  border-style: inset;
+  height: 25em;
+  width: auto;
 }
 #tresfotos {
   margin: 0 1em;
@@ -61,108 +77,269 @@ body {
   width: auto;
 }
 
-/* .letra-introduccion7{
+.letra-introduccion7 h2{
   text-align: center;
-  background-color: white;
+}
+
+.letra-introduccion7 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion7{
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion8 h1 {
+  text-align: center;
+}
+
+.letra-introduccion8 h2{
+  text-align: center;
+}
+
+.letra-introduccion8 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion8{
-  text-align: center;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion9 h2{
+  text-align: center;
+}
+
+.letra-introduccion9 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion9{
-  position: relative;
-  text-align: left;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion10 h2{
+  text-align: center;
+}
+
+.letra-introduccion10 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion10{
-  text-align: center;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion11 h2{
+  text-align: center;
+}
+
+.letra-introduccion11 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion11{
-  text-align: center;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion12 h2{
+  text-align: center;
+}
+
+.letra-introduccion12 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion12{
-  text-align: center;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion13 h2{
+  text-align: center;
+}
+
+.letra-introduccion13 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion13{
-  text-align: justify;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion14 h2{
+  text-align: center;
+}
+
+.letra-introduccion14 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion14{
-  text-align: justify;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
+  color: white;
+}
+
+.letra-introduccion15 h2{
+  text-align: center;
+}
+
+.letra-introduccion15 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 .letra-introduccion15{
-  text-align: justify;
-  background-color: white;
+  background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
   padding: 1em;
-  color: black;
-} */
+  color: white;
+}
 
-.card img {
+.letra-introduccion16 h2{
   text-align: center;
-  height: 17.5em;
-  width: 17.5em;
+}
+
+.letra-introduccion16 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion16{
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: white;
+}
+
+.letra-introduccion17 h2{
+  text-align: center;
+}
+
+.letra-introduccion17 p{
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion17{
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding: 1em;
+  color: white;
+}
+
+.letra-introduccion18{
+  text-align: center;
+}
+
+.letra-introduccion18 img{
+  padding-bottom: 2.5em;
+  height: 22em;
+  width: auto;
 }

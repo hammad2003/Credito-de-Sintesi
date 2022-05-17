@@ -68,9 +68,16 @@ body {
   text-align: center;
 }
 
-.letra-introduccion2{
+.letra-introduccion2 p{
   text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
 
+.letra-introduccion2{
   background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
@@ -84,9 +91,16 @@ body {
   text-align: center;
 }
 
-.letra-introduccion3{
+.letra-introduccion3 p{
   text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
 
+.letra-introduccion3{
   background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
@@ -100,9 +114,16 @@ body {
   text-align: center;
 }
 
-.letra-introduccion4{
+.letra-introduccion4 p{
   text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
 
+.letra-introduccion4{
   background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
@@ -116,9 +137,16 @@ body {
   text-align: center;
 }
 
-.letra-introduccion5{
+.letra-introduccion5 p{
   text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
 
+.letra-introduccion5{
   background-color: rgba(0, 0, 0, 0.7);
   margin-top: 2em;
   margin-bottom: 3em;
