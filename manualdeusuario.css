@@ -10,6 +10,8 @@ body {
   background-size: cover;
   background-position: center;
   padding-bottom: 10em;
+  padding-right: 0em;
+  padding-left: 0em;
 }
 
 .blanco{
