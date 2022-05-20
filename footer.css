@@ -6,7 +6,7 @@
   /* background-color: #454545; */
   background-color: white;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   padding-top: 1em;
   padding-bottom: 1.25em;
 }
@@ -29,6 +29,7 @@
 }
 
 #redessociales {
+  padding-left: 6em;
   text-align: left;
 }
 
@@ -52,6 +53,33 @@
 #dos{
   margin-top: -2.25em;
   padding-left: 1.5em;
+}
+
+menu {
+  padding-left: 0;
+  margin: 0;
+}
+
+#menufooter{
+  padding-left: 6em;
+}
+
+#menufooter ul{
+  padding-left: 0em;
+  list-style-type: none;
+
+}
+
+#menufooter li {
+
+}
+
+#menufooter p{
+  text-align: left;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: 0.25em;
 }
 
 #licencia {
