@@ -65,6 +65,7 @@ body {
 }
 
 .letra-introduccion3 p{
+  border: thin solid white;
   text-align: justify;
   margin: 0em;
   padding-top: 0.25em;
