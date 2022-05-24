@@ -65,7 +65,7 @@ body {
 }
 
 .letra-introduccion3 p{
-  border: thin solid white;
+  border: 0.5em solid white;
   text-align: justify;
   margin: 0em;
   padding-top: 0.25em;
@@ -80,8 +80,84 @@ body {
   margin-bottom: 3em;
   margin-right: 6em;
   margin-left: 6em;
-  padding: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   color: white;
+}
+
+.letra-introduccion7 h4{
+  text-align: center;
+}
+
+.letra-introduccion7 p{
+  border: 0.5em solid white;
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion7 {
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: black;
+}
+
+.letra-introduccion8 h4{
+  text-align: center;
+}
+
+.letra-introduccion8 p{
+  border: 0.5em solid white;
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion8 {
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: black;
+}
+
+.letra-introduccion9 h4{
+  text-align: center;
+}
+
+.letra-introduccion9 p{
+  border: 0.5em solid white;
+  text-align: justify;
+  margin: 0em;
+  padding-top: 0.25em;
+  padding-bottom: 1.25em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.letra-introduccion9 {
+  background-color: white;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: black;
 }
 
 .letra-introduccion4 h2{
