@@ -217,12 +217,12 @@ body {
 }
 
 .letra-introduccion6 p{
+  text-align: justify;
   margin: 0em;
   padding-top: 0.25em;
   padding-bottom: 1.25em;
   padding-right: 1em;
   padding-left: 1em;
-  text-align: justify;
 }
 
 .letra-introduccion6{
@@ -233,4 +233,30 @@ body {
   margin-left: 6em;
   padding: 1em;
   color: white;
+}
+
+.letra-introduccion10{
+  text-align: center;
+  background-color: white);
+  margin-top: 0.5em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
+}
+
+.letra-introduccion11 img{
+  position: relative;
+  margin-top: 0.5em;
+  margin-bottom: 1.25em;
+  height: auto;
+  width: 50em;
+}
+
+.letra-introduccion11{
+  text-align: center;
+  background-color: white);
+  margin-top: 0.5em;
+  margin-bottom: 3em;
+  margin-right: 6em;
+  margin-left: 6em;
 }
