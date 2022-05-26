@@ -131,26 +131,3 @@ body {
   padding: 1em;
   color: white;
 }
-
-.letra-introduccion5 h2{
-  text-align: center;
-}
-
-.letra-introduccion5 p{
-  text-align: justify;
-  margin: 0em;
-  padding-top: 0.25em;
-  padding-bottom: 1.25em;
-  padding-right: 1em;
-  padding-left: 1em;
-}
-
-.letra-introduccion5{
-  background-color: rgba(0, 0, 0, 0.7);
-  margin-top: 2em;
-  margin-bottom: 3em;
-  margin-right: 6em;
-  margin-left: 6em;
-  padding: 1em;
-  color: white;
-}
