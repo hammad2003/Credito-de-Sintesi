@@ -63,6 +63,11 @@ body {
   width: auto;
 }
 
+.foto-robot video {
+  height: 25em;
+  width: auto;
+}
+
 .letra-introduccion2 h2{
   text-align: center;
 }
