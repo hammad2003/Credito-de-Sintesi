@@ -187,6 +187,12 @@ body {
   text-align: center;
 }
 
+.letra-introduccion5 h4{
+  text-align: left;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
 .letra-introduccion5 p{
   text-align: justify;
   margin: 0em;
